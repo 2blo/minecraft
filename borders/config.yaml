@@ -1,0 +1,2 @@
+# yaml-language-server: $schema=borders/config_schema.yaml
+borderSize: 10

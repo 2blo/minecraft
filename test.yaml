@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=schema.yaml
+line_endings:
+  value: unix
+  level: ignore
